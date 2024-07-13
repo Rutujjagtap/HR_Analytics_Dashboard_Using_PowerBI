@@ -7,13 +7,13 @@ Welcome to the HR Analytics Dashboard project! This Power BI dashboard is design
 **Attrition by Salary Slab:** Analyze the correlation between salary slabs and employee attrition to identify compensation-related issues.  
 **Attrition by Job Role:** Examine attrition rates across various job roles to pinpoint roles with the highest turnover.  
 **Job Satisfaction Based on Role:** Assess job satisfaction levels in different roles and their impact on attrition.  
-**Highest Department by Attrition:** Identify departments with the highest attrition rates and investigate underlying causes.
+**Highest Department by Attrition:** Identify departments with the highest attrition rates and investigate underlying causes.  
 **Average values of Age, Salary and No of Years Spent in the Company were also calculated**
 
 ## Data Preparation  
-The data for this dashboard was sourced from Excel and imported into Power BI. Basic data cleaning was performed before loading, including:
-**Removing Null Values:** Ensuring completeness of the data by eliminating records with missing values.
-**Removing Duplicates:** Maintaining data integrity by removing duplicate entries.
+The data for this dashboard was sourced from Excel and imported into Power BI. Basic data cleaning was performed before loading, including:  
+**Removing Null Values:** Ensuring completeness of the data by eliminating records with missing values.  
+**Removing Duplicates:** Maintaining data integrity by removing duplicate entries.  
 **Correcting Misspelled Words:** Standardizing text data to avoid inconsistencies and improve analysis accuracy.  
 
 ## Project Structure  
